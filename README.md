@@ -20,13 +20,13 @@ The aim of this project is to implement a kitchen LED driver that enables settin
 
 
 
-- \*\*root dir\*\* – system level requirements, tests and frozen config  
+- **root dir** – system level requirements, tests and frozen config  
 
-- \*\*Common/\*\* – common components like communication protocols, docs and tests  
+- **Common** – common components like communication protocols, docs and tests  
 
-- \*\*LED\_Driver/\*\* – files related to the LED strip driver, schematics, docs, tests etc.  
+- **LED_Driver** – files related to the LED strip driver, schematics, docs, tests etc.  
 
-- \*\*Linux\_Server/\*\* – files related to the Server block – utilities for building the app from the ground up on Raspberry Pi / other SBC with Linux, documents and tests  
+- **Linux_Server** – files related to the Server block – utilities for building the app from the ground up on Raspberry Pi / other SBC with Linux, documents and tests  
 
 
 
@@ -39,6 +39,7 @@ The aim of this project is to implement a kitchen LED driver that enables settin
 
 
 Please get familiar with \*\*Master\_description\_file\*\* in the root directory and go through other documents – these should explain running the project step by step.
+
 
 
 
