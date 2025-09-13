@@ -38,7 +38,8 @@ The aim of this project is to implement a kitchen LED driver that enables settin
 
 
 
-Please get familiar with \*\*Master\_description\_file\*\* in the root directory and go through other documents – these should explain running the project step by step.
+Please get familiar with **Master_description_file** in the root directory and go through other documents – these should explain running the project step by step.
+
 
 
 
