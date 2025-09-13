@@ -1,3 +1,9 @@
+# Usage Notice for this Repository
+
+Dear Users,
+
+This repository is intended for non-commercial, private use only. Individuals are allowed to edit or fork the project under the condition of providing proper attribution to both the repository and its authors. It is crucial to quote the repository and acknowledge the authors appropriately. Please note that the authors of this solution do not carry any responsibility for any consequences arising from the use of this project.
+
 # Kitchen LED Driver
 
 
@@ -33,6 +39,7 @@ The aim of this project is to implement a kitchen LED driver that enables settin
 
 
 Please get familiar with \*\*Master\_description\_file\*\* in the root directory and go through other documents – these should explain running the project step by step.
+
 
 
 
